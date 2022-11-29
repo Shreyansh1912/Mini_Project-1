@@ -2,9 +2,9 @@
 <p align=center>
   <img src="1.jpeg" width=500px height=300px>
 </p>
-<span align=center>
+<p align=center>
   <img src="2.jpeg" width=500px height=300px>
-</span>
+</p>
 <p align=center>
   <img src="3.jpeg" width=500px height=300px>
 </p>
